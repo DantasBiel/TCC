@@ -1,6 +1,7 @@
 body{
     background-color: rgb(231, 231, 231);
     margin: 0;
+    font-family: 'Quicksand', sans-serif;
 }
 
 h2{
@@ -23,13 +24,13 @@ p{
     text-align: justify;
 }
 fieldset{
-    background-color: rgb(231, 231, 231)
+    background-color: rgb(255, 255, 255)
 }
 
 input[type=text] {
     border: none;
     border-bottom: 2px solid rgb(71, 71, 71);
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(255, 255, 255);
 }
 
 .contato{
